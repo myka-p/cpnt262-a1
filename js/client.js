@@ -26,9 +26,10 @@ const equiptBag = function() {
   obtained.innerHTML = `<em>Item obtained +1 : <strong>${foodObtained}</strong></em>`;
 }
 
+// prompt to enter Player's name at the start
 const playerName = prompt("Enter your name:");
 const greeting = document.querySelector('.intro');
-greeting.innerHTML = `Hello! ${playerName}`;
+greeting.innerHTML = `Hello! <strong>${playerName}</strong>`;
 
 // event listener that invokes callback function when button is clicked
 const button = document.querySelector('button');

@@ -1,0 +1,39 @@
+* {
+  background-color: palegoldenrod;
+}
+
+body {
+  /* no horizontal scroll */
+  margin: 0;
+
+  /* gives space all around */
+  padding: 5em;
+
+  font-size: 24px;
+  font-family: 'Courier New', Courier, monospace;
+
+  /* centers content */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* button styling */
+button {
+  padding: 0.5em;
+  border-radius: 1em;
+
+  background-color: powderblue;
+
+  font-size: 17px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+button:active {
+ background-color: blue;
+}
+
+button:hover {
+  background-color: palevioletred;
+}
