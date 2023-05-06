@@ -1,13 +1,14 @@
 # cpnt262-a1
+
 Assignment 1 - Push of a button  
 author: Myka Peligrino  
-**GH Pages:**  https://myka-p.github.io/cpnt262-a1/
+**GH Pages:** https://myka-p.github.io/cpnt262-a1/
 
 ## Above and Beyond
+
 I did a `prompt()`, it can be found on `js > style.css > line 30-32 `
 
 ## Attributions
-- Cat Picture from Pexels (https://www.pexels.com/photo/russian-blue-kitten-on-brown-woven-basket-127027/)  
 
 - 2022-10-18 Event Callbacks from Dailies by Tony Grimes (https://github.com/sait-wbdv/dailies-f22/blob/main/2022-10-18-events-callbacks/03-finished-dom-prompt/js/client.js)
 - join Array Method | JavaScript Tutorial (https://www.youtube.com/watch?v=1a2OCwBD-yI)
