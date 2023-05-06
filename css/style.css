@@ -10,13 +10,18 @@ body {
   padding: 5em;
 
   font-size: 24px;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 
   /* centers content */
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+
+.content,
+.treatsList {
+  width: 65ch;
 }
 
 /* button styling */
@@ -27,11 +32,11 @@ button {
   background-color: powderblue;
 
   font-size: 17px;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
 button:active {
- background-color: blue;
+  background-color: blue;
 }
 
 button:hover {
